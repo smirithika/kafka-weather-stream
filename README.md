@@ -13,6 +13,13 @@ A Kafka-based micro-project that simulates weather events using real-world data 
 - Docker
 - matplotlib, kafka-python, pandas
 
+## Dataset 
+Kaggle - US Weather Events (2016–2022)
+https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events
+
+## Reference Document
+https://smirithika.medium.com/streaming-real-time-weather-events-with-kafka-try-within-a-day-micro-project-1-13f04ac70384
+
 ## Run
 ```bash
 docker-compose -f docker/docker-compose.yml up -d
