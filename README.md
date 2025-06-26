@@ -2,6 +2,9 @@
 
 A Kafka-based micro-project that simulates weather events using real-world data and visualizes event type frequency in real time using matplotlib.
 
+### Feel free to check out my Medium blog for a better understanding of the process and motivation
+https://smirithika.medium.com/streaming-real-time-weather-events-with-kafka-try-within-a-day-micro-project-1-13f04ac70384
+
 ## Features
 - Kafka producer streams weather events from JSONL
 - Kafka consumer logs and plots live event type frequency
@@ -16,9 +19,6 @@ A Kafka-based micro-project that simulates weather events using real-world data 
 ## Dataset 
 Kaggle - US Weather Events (2016–2022)
 https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events
-
-## Reference Document
-https://smirithika.medium.com/streaming-real-time-weather-events-with-kafka-try-within-a-day-micro-project-1-13f04ac70384
 
 ## Run
 ```bash
