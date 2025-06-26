@@ -3,6 +3,7 @@
 A Kafka-based micro-project that simulates weather events using real-world data and visualizes event type frequency in real time using matplotlib.
 
 This was created as part of my 9-micro projects plan to sharpen my data engineering skills
+
 **Feel free to check out [my Medium blog related to this project](https://smirithika.medium.com/streaming-real-time-weather-events-with-kafka-try-within-a-day-micro-project-1-13f04ac70384) for a better understanding of the process and motivation**
 
 ## Features
